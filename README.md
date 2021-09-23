@@ -15,8 +15,8 @@ Make a complete report of the date set :
 Summarize the columns of interest statistically
 Find how many missing data are per column
 Create new columns (average flight speed, whether late or not ...)
-Table of airlines with the most accumulated arrears
-What are the longest flights? And the most backward?
+Table of airlines with the most accumulated delays
+What are the longest flights? And the most delayed?
 Etc.
 
 - Exercises 3
